@@ -4,6 +4,7 @@
  * Press Esc to cancel mid-scroll.
  *
  * Same as Krispy: constant linear scroll over 16s (no slowdown at the end).
+ * Redeploy stamp: 2026-10-05-record-tour
  */
 import { useEffect } from 'react'
 
